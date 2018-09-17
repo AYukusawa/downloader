@@ -10,4 +10,4 @@ Youtube Downloader
 </p>
 
 
-Just Put the Folder in the htdocs or www folder and Enjoy
+Just Put the Folder in the htdocs or www folder and run composer update ====> Enjoy
